@@ -9,6 +9,8 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+github_credentials.properties
+
 
 # macOS
 .DS_Store
